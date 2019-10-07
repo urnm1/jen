@@ -5,6 +5,6 @@ set -euo pipefail
 
 mkdir out &&
 cat <<-'EOF' > out/artifact.txt
-  line1
-  line2
+    line1
+    line2
   EOF
